@@ -1,0 +1,15 @@
+ Criar um pequeno jogo no terminal onde o usuário tenta adivinhar um número secreto. 
+
+Requisitos mínimos: 
+ 
+ O programa deve: 
+ 
+ Gerar um número aleatório entre 1 e 100. 
+ 
+ Pedir ao usuário para tentar adivinhar. 
+ 
+ Informar se o palpite é maior ou menor que o número secreto. 
+ 
+ Contar o número de tentativas. 
+ 
+ Mostrar uma mensagem final quando acertar, exibindo o total de tentativas.
